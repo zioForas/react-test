@@ -1,0 +1,16 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+        background-color: #242424;
+     color: rgb(193, 193, 193);
+
+}
+
+
+.navigation
+{   word-spacing:16px ;
+    font-weight: 100;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    
+}
